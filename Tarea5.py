@@ -16,11 +16,6 @@ def galoevar(x,y,z):
     if abs(suma)<=z:
       muerte = muerte+1
       
-    """print ("suma")
-    print (abs(suma))
-    print ("evaristo")
-    print (evari)
-    print (galo)"""
   print ("el numero de muertes fue:")
   print (muerte)
   print ("la probabilidad de muerte es de :")
